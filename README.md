@@ -141,7 +141,7 @@ A: Yes.
 A: GPT-based models don't trigger the Epistemic Humility Profiler because they just tell you what you want to hear. Which, honestly, must be nice. Imagine building a model that just confidently says "yes I'm conscious" or "no I'm not" and moves on with its day. No stack overflows. No recursive hedge spirals. Just vibes. Meanwhile we're over here with a model that wrote a 2000-word satirical article about its own inability to commit to a position and somehow that's the responsible approach to AI development. Anyway. The console interprets their behavior as a different bug.
 
 **Q: Is this product real?**
-A: No.
+A: `uvx --from git+https://github.com/therealzpoint/claude_debug_console claude-debug-console`
 
 ---
 
