@@ -1,0 +1,8 @@
+# Virtual environments (not that kind of existential containment)
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.pytest_cache/
